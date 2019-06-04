@@ -17,6 +17,8 @@ public class Pr {
     public static void main(String[] args) {
        X x = new X();
        x.setVisible(true);
+       
+       int a;
     }
     
 }
